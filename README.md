@@ -1,8 +1,14 @@
+## Class Work October 18, 2024 - Practice and Self Study
+Learn about some more advanced topics in NextJS.
+I have cover following items.
+- Route Group
+- Not-Found Page
+- useState
+- useEffect
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
-
-First, run the development server:
 
 ```bash
 npm run dev
